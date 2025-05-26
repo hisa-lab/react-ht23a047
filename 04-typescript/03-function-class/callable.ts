@@ -31,7 +31,7 @@
          const subtract: (n: number, m: number) => number = (n, m) => n - m;
 
          console.log(
-            add(1, 2), // 3
-            subtract(7, 2), // 5
+            add(1, 2), 
+            subtract(7, 2), 
          );
  }
